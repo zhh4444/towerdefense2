@@ -1,24 +1,22 @@
 <RCC>
     <qresource prefix="/new/prefix1"/>
     <qresource prefix="/">
-        <file>image/back.png</file>
         <file>image/background.png</file>
         <file>image/boom.png</file>
         <file>image/bullet-1.png</file>
-        <file>image/bullet-2.png</file>
-        <file>image/bullet-3.png</file>
         <file>image/fruits.png</file>
         <file>image/monster-1.png</file>
         <file>image/monster-2.png</file>
         <file>image/monster-3.png</file>
-        <file>image/raise.png</file>
-        <file>image/remove.png</file>
         <file>image/start.png</file>
         <file>image/tower-1.png</file>
         <file>image/tower-2.png</file>
         <file>image/tower-3.png</file>
-        <file>../../image/background2.png</file>
-        <file>image/map1.png</file>
-        <file>image/selectionbutton.png</file>
+        <file>image/background2.png</file>
+        <file>image/game_map1.jpg</file>
+        <file>image/game_map2.jpg</file>
+        <file>image/selection1.png</file>
+        <file>image/selection2.png</file>
+        <file>image/selection3.png</file>
     </qresource>
 </RCC>
